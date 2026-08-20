@@ -1,4 +1,4 @@
-# Hi, I'm Tami
+# Hi, I'm Fatima Alkatheeri
 
 ## Python | AI | Data Analysis
 
